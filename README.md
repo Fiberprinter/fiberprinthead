@@ -6,9 +6,9 @@
 <h3>Built to push the limits of FDM</h3>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Hardware-181717.svg?style&logo=Raspberry%20Pi&logoColor=white" alt="Hardware" />
-<img src="https://img.shields.io/badge/3D%20Printing-FF6F00.svg?style&logo=3D%20Hubs&logoColor=white" alt="3D Printing" />
-<img src="https://img.shields.io/badge/Firmware-C%2B%2B-blue.svg?style&logo=C%2B%2B&logoColor=white" alt="C++" />
+<img src="https://img.shields.io/badge/CAD-Autodesk%20Inventor-orange.svg?style&logo=autodesk&logoColor=white" alt="Autodesk Inventor" />
+<img src="https://img.shields.io/badge/Export-STEP--Files-lightgrey.svg?style" alt="STEP" />
 </p>
 </div>
+
 
