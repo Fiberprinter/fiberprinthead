@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">
-<img src="assets/icons/hotend_icon.png" width=200.0>
+<img src="main_icon.png" width=200.0>
 <br>Fiberhead
 </h1>
 <h3>Built to push the limits of FDM</h3>
@@ -11,3 +11,4 @@
 <img src="https://img.shields.io/badge/Firmware-C%2B%2B-blue.svg?style&logo=C%2B%2B&logoColor=white" alt="C++" />
 </p>
 </div>
+
